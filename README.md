@@ -1,16 +1,94 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Todo Application built using React and Vite. This project helps users organize and manage their daily tasks through a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Live Website:** https://todo-app-kappa-seven-57.vercel.app/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Add new tasks
+* Delete existing tasks
+* Responsive design
+* Clean and intuitive user interface
+* Fast performance with Vite
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rupesh568/Todo-App-.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Todo-App-
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 📁 Project Structure
+
+```text
+src/
+├── Components/
+├── App.jsx
+├── main.jsx
+└── ...
+```
+
+## 🎯 Learning Outcomes
+
+This project helped me improve my understanding of:
+
+* React Components
+* Props
+* State Management
+* Event Handling
+* Form Handling
+* React Project Structure
+* Git & GitHub
+* Vercel Deployment
+
+## 👨‍💻 Author
+
+**Rupesh Kumar Chaudhary**
+
+GitHub: https://github.com/rupesh568
+
+## 🌐 Deployment
+
+This project is deployed on Vercel and automatically redeploys whenever new changes are pushed to the GitHub repository.
+
+## 📄 License
+
+This project is created for learning and portfolio purposes.
+
