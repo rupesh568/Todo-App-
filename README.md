@@ -4,7 +4,7 @@ A modern and responsive Todo Application built using React and Vite. This projec
 
 ## 🚀 Live Demo
 
-**Live Website:** https://todo-app-kappa-seven-57.vercel.app/
+**Live Website:** https://todo-app-rupesh.vercel.app/
 
 ## ✨ Features
 
